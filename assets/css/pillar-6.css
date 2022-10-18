@@ -4549,6 +4549,7 @@ textarea.form-control-lg {
   --bs-badge-font-size: 0.75em;
   --bs-badge-font-weight: 700;
   --bs-badge-color: #fff;
+  --bs-badge-background-color: #aaa;
   --bs-badge-border-radius: 0.375rem;
   display: inline-block;
   padding: var(--bs-badge-padding-y) var(--bs-badge-padding-x);
@@ -4556,6 +4557,7 @@ textarea.form-control-lg {
   font-weight: var(--bs-badge-font-weight);
   line-height: 1;
   color: var(--bs-badge-color);
+  background-color: var(--bs-badge-background-color);
   text-align: center;
   white-space: nowrap;
   vertical-align: baseline;
